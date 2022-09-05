@@ -71,7 +71,15 @@
             "group": "external"
           },
           {
-            "pattern": "~/utils/**",
+            "pattern": "~/libs/**",
+            "patternOptions": {
+              "partial": true,
+              "nocomment": true
+            },
+            "group": "internal"
+          },
+          {
+            "pattern": "~/__helpers__/**",
             "patternOptions": {
               "partial": true,
               "nocomment": true
