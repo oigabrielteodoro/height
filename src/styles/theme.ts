@@ -7,7 +7,7 @@ export const theme = {
     radius: '0.4rem',
   },
   font: {
-    family: "'Lato', sans-serif",
+    family: "'Rubik', sans-serif",
     light: 300,
     normal: 400,
     bold: 600,
